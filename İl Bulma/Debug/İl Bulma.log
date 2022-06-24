@@ -1,0 +1,4 @@
+﻿  İl Bulma.cpp
+C:\Users\İlyas\Source\Repos\İl Bulma\İl Bulma.cpp(68,15): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\İlyas\Source\Repos\İl Bulma\İl Bulma.cpp(87,43): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  İl Bulma.vcxproj -> C:\Users\İlyas\Source\Repos\İl Bulma\Debug\İl Bulma.exe

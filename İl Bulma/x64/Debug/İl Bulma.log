@@ -1,0 +1,6 @@
+﻿  İl Bulma.cpp
+C:\C++\Repos\İl Bulma\İl Bulma.cpp(49,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\C++\Repos\İl Bulma\İl Bulma.cpp(55,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\C++\Repos\İl Bulma\İl Bulma.cpp(68,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\C++\Repos\İl Bulma\İl Bulma.cpp(89,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  İl Bulma.vcxproj -> C:\C++\Repos\İl Bulma\x64\Debug\İl Bulma.exe
